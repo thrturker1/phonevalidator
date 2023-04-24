@@ -1,0 +1,16 @@
+{
+  "name": "phone-validation-package",
+  "version": "1.0.0",
+  "description": "This is an example of phone number validation package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "Test"
+  },
+  "keywords": [
+    "Phone",
+    "Number",
+    "Validation"
+  ],
+  "author": "thrturker",
+  "license": "ISC"
+}
